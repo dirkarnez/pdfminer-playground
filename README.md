@@ -1,5 +1,5 @@
-python-playground
-=================
+pdfminer-playground
+===================
 [dirkarnez/python-portable](https://github.com/dirkarnez/python-portable)
 
 ### Installing packages
